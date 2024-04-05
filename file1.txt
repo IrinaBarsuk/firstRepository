@@ -2,3 +2,4 @@ Hello world!
 Good bye
 I fixed bug -- line was change by user 2
 Change by user 1
+line from user1
