@@ -3,3 +3,4 @@ Good bye
 I fixed bug -- line was change by user 2
 Change by user 1
 line from user1
+add line for rebase by user1
